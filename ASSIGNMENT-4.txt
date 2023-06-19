@@ -1,0 +1,6 @@
+                                                                                                                                                                             ASSIGNMENT-4
+
+
+1.  Emmet isa plugin for text editors that allows you to write HTML and CSS faster using abbreviations that expand into full code.It can save a lot of time when writing code because you can type a few characters and then expand them into a long block of code with a single keystroke.
+
+2.  Emmet is a tool that allows web developers to write HTML and CSS code more quickly and accurately by using short codes and abbreviations. This can save time, reduce errors, and improve the consistency of code.
